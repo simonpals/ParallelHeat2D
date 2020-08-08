@@ -1,0 +1,16 @@
+﻿  Heat2d.cpp
+d:\projects\freelance\heatproblem2\heat2d\heat2d\heat2d.cpp(82): warning C4101: 'e': unreferenced local variable
+d:\projects\freelance\heatproblem2\heat2d\heat2d\heat2d.cpp(117): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\projects\freelance\heatproblem2\heat2d\heat2d\heat2d.cpp(120): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\projects\freelance\heatproblem2\heat2d\heat2d\heat2d.cpp(129): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\projects\freelance\heatproblem2\heat2d\heat2d\heat2d.cpp(161): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+d:\projects\freelance\heatproblem2\heat2d\heat2d\heat2d.cpp(162): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  Heat2d.vcxproj -> D:\projects\Freelance\HeatProblem2\Heat2d\Debug\Heat2d.exe

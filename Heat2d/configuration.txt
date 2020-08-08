@@ -1,0 +1,14 @@
+0.0       #bottom_temp
+100.0     #top_temp
+75.0      #left_temp
+50.0      #right_temp
+64.0      #nodes
+7800      #ro
+0.46      #C_ro
+80.4      #k
+1         #dx
+0.8       #dy
+0.2       #dt
+100       #time_count
+10        #write_each
+4         #threads_count
